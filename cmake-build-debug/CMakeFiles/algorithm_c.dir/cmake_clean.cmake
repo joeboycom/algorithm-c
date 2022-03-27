@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/algorithm_c.dir/main.c.o"
+  "CMakeFiles/algorithm_c.dir/stackbyintarray.c.o"
   "algorithm_c"
   "algorithm_c.pdb"
 )

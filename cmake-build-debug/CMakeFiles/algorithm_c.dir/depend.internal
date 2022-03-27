@@ -3,3 +3,6 @@
 
 CMakeFiles/algorithm_c.dir/main.c.o
  /Users/joewu/CppProject/algorithm-c/main.c
+ /Users/joewu/CppProject/algorithm-c/stackbyintarray.h
+CMakeFiles/algorithm_c.dir/stackbyintarray.c.o
+ /Users/joewu/CppProject/algorithm-c/stackbyintarray.c

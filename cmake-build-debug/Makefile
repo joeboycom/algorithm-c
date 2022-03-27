@@ -170,6 +170,33 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/main.c.s
 .PHONY : main.c.s
 
+stackbyintarray.o: stackbyintarray.c.o
+
+.PHONY : stackbyintarray.o
+
+# target to build an object file
+stackbyintarray.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackbyintarray.c.o
+.PHONY : stackbyintarray.c.o
+
+stackbyintarray.i: stackbyintarray.c.i
+
+.PHONY : stackbyintarray.i
+
+# target to preprocess a source file
+stackbyintarray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackbyintarray.c.i
+.PHONY : stackbyintarray.c.i
+
+stackbyintarray.s: stackbyintarray.c.s
+
+.PHONY : stackbyintarray.s
+
+# target to generate assembly for a file
+stackbyintarray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackbyintarray.c.s
+.PHONY : stackbyintarray.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -182,6 +209,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... stackbyintarray.o"
+	@echo "... stackbyintarray.i"
+	@echo "... stackbyintarray.s"
 .PHONY : help
 
 

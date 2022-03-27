@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include "stackByIntArray.h"
 
 int main() {
-    printf("Hello, World!\n");
+    doStackByIntArray();
+
     return 0;
 }

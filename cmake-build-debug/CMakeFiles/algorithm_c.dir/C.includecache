@@ -7,6 +7,14 @@
 #IncludeRegexTransform: 
 
 /Users/joewu/CppProject/algorithm-c/main.c
+stackbyintarray.h
+/Users/joewu/CppProject/algorithm-c/stackbyintarray.h
+
+/Users/joewu/CppProject/algorithm-c/stackbyintarray.c
 stdio.h
 -
+stdlib.h
+-
+
+/Users/joewu/CppProject/algorithm-c/stackbyintarray.h
 
