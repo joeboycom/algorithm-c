@@ -3,6 +3,9 @@
 
 CMakeFiles/algorithm_c.dir/main.c.o
  /Users/joewu/CppProject/algorithm-c/main.c
- /Users/joewu/CppProject/algorithm-c/stackbyintarray.h
-CMakeFiles/algorithm_c.dir/stackbyintarray.c.o
- /Users/joewu/CppProject/algorithm-c/stackbyintarray.c
+ /Users/joewu/CppProject/algorithm-c/queueByIntArray.h
+ /Users/joewu/CppProject/algorithm-c/stackByIntArray.h
+CMakeFiles/algorithm_c.dir/queueByIntArray.c.o
+ /Users/joewu/CppProject/algorithm-c/queueByIntArray.c
+CMakeFiles/algorithm_c.dir/stackByIntArray.c.o
+ /Users/joewu/CppProject/algorithm-c/stackByIntArray.c

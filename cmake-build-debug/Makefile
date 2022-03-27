@@ -170,32 +170,59 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/main.c.s
 .PHONY : main.c.s
 
-stackbyintarray.o: stackbyintarray.c.o
+queueByIntArray.o: queueByIntArray.c.o
 
-.PHONY : stackbyintarray.o
+.PHONY : queueByIntArray.o
 
 # target to build an object file
-stackbyintarray.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackbyintarray.c.o
-.PHONY : stackbyintarray.c.o
+queueByIntArray.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByIntArray.c.o
+.PHONY : queueByIntArray.c.o
 
-stackbyintarray.i: stackbyintarray.c.i
+queueByIntArray.i: queueByIntArray.c.i
 
-.PHONY : stackbyintarray.i
+.PHONY : queueByIntArray.i
 
 # target to preprocess a source file
-stackbyintarray.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackbyintarray.c.i
-.PHONY : stackbyintarray.c.i
+queueByIntArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByIntArray.c.i
+.PHONY : queueByIntArray.c.i
 
-stackbyintarray.s: stackbyintarray.c.s
+queueByIntArray.s: queueByIntArray.c.s
 
-.PHONY : stackbyintarray.s
+.PHONY : queueByIntArray.s
 
 # target to generate assembly for a file
-stackbyintarray.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackbyintarray.c.s
-.PHONY : stackbyintarray.c.s
+queueByIntArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByIntArray.c.s
+.PHONY : queueByIntArray.c.s
+
+stackByIntArray.o: stackByIntArray.c.o
+
+.PHONY : stackByIntArray.o
+
+# target to build an object file
+stackByIntArray.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackByIntArray.c.o
+.PHONY : stackByIntArray.c.o
+
+stackByIntArray.i: stackByIntArray.c.i
+
+.PHONY : stackByIntArray.i
+
+# target to preprocess a source file
+stackByIntArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackByIntArray.c.i
+.PHONY : stackByIntArray.c.i
+
+stackByIntArray.s: stackByIntArray.c.s
+
+.PHONY : stackByIntArray.s
+
+# target to generate assembly for a file
+stackByIntArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackByIntArray.c.s
+.PHONY : stackByIntArray.c.s
 
 # Help Target
 help:
@@ -209,9 +236,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... stackbyintarray.o"
-	@echo "... stackbyintarray.i"
-	@echo "... stackbyintarray.s"
+	@echo "... queueByIntArray.o"
+	@echo "... queueByIntArray.i"
+	@echo "... queueByIntArray.s"
+	@echo "... stackByIntArray.o"
+	@echo "... stackByIntArray.i"
+	@echo "... stackByIntArray.s"
 .PHONY : help
 
 

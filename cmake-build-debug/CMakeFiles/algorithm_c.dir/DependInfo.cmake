@@ -5,7 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/joewu/CppProject/algorithm-c/main.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/main.c.o"
-  "/Users/joewu/CppProject/algorithm-c/stackbyintarray.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/stackbyintarray.c.o"
+  "/Users/joewu/CppProject/algorithm-c/queueByIntArray.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/queueByIntArray.c.o"
+  "/Users/joewu/CppProject/algorithm-c/stackByIntArray.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/stackByIntArray.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

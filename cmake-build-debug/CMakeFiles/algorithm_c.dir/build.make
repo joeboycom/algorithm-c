@@ -90,32 +90,47 @@ CMakeFiles/algorithm_c.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/main.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/main.c -o CMakeFiles/algorithm_c.dir/main.c.s
 
-CMakeFiles/algorithm_c.dir/stackbyintarray.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/stackbyintarray.c.o: ../stackbyintarray.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/algorithm_c.dir/stackbyintarray.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/stackbyintarray.c.o   -c /Users/joewu/CppProject/algorithm-c/stackbyintarray.c
+CMakeFiles/algorithm_c.dir/stackByIntArray.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/stackByIntArray.c.o: ../stackByIntArray.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/algorithm_c.dir/stackByIntArray.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/stackByIntArray.c.o   -c /Users/joewu/CppProject/algorithm-c/stackByIntArray.c
 
-CMakeFiles/algorithm_c.dir/stackbyintarray.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/stackbyintarray.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/stackbyintarray.c > CMakeFiles/algorithm_c.dir/stackbyintarray.c.i
+CMakeFiles/algorithm_c.dir/stackByIntArray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/stackByIntArray.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/stackByIntArray.c > CMakeFiles/algorithm_c.dir/stackByIntArray.c.i
 
-CMakeFiles/algorithm_c.dir/stackbyintarray.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/stackbyintarray.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/stackbyintarray.c -o CMakeFiles/algorithm_c.dir/stackbyintarray.c.s
+CMakeFiles/algorithm_c.dir/stackByIntArray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/stackByIntArray.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/stackByIntArray.c -o CMakeFiles/algorithm_c.dir/stackByIntArray.c.s
+
+CMakeFiles/algorithm_c.dir/queueByIntArray.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/queueByIntArray.c.o: ../queueByIntArray.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/algorithm_c.dir/queueByIntArray.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/queueByIntArray.c.o   -c /Users/joewu/CppProject/algorithm-c/queueByIntArray.c
+
+CMakeFiles/algorithm_c.dir/queueByIntArray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/queueByIntArray.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/queueByIntArray.c > CMakeFiles/algorithm_c.dir/queueByIntArray.c.i
+
+CMakeFiles/algorithm_c.dir/queueByIntArray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/queueByIntArray.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/queueByIntArray.c -o CMakeFiles/algorithm_c.dir/queueByIntArray.c.s
 
 # Object files for target algorithm_c
 algorithm_c_OBJECTS = \
 "CMakeFiles/algorithm_c.dir/main.c.o" \
-"CMakeFiles/algorithm_c.dir/stackbyintarray.c.o"
+"CMakeFiles/algorithm_c.dir/stackByIntArray.c.o" \
+"CMakeFiles/algorithm_c.dir/queueByIntArray.c.o"
 
 # External object files for target algorithm_c
 algorithm_c_EXTERNAL_OBJECTS =
 
 algorithm_c: CMakeFiles/algorithm_c.dir/main.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/stackbyintarray.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/stackByIntArray.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/queueByIntArray.c.o
 algorithm_c: CMakeFiles/algorithm_c.dir/build.make
 algorithm_c: CMakeFiles/algorithm_c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable algorithm_c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable algorithm_c"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm_c.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

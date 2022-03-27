@@ -88,6 +88,8 @@ void doStackByIntArray() {
 
     printf("\nAfter popping out\n");
     printStack(s);
+
+    printf("====================\n");
 }
 
 

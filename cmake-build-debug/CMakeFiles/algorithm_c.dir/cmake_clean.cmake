@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/algorithm_c.dir/main.c.o"
-  "CMakeFiles/algorithm_c.dir/stackbyintarray.c.o"
+  "CMakeFiles/algorithm_c.dir/queueByIntArray.c.o"
+  "CMakeFiles/algorithm_c.dir/stackByIntArray.c.o"
   "algorithm_c"
   "algorithm_c.pdb"
 )

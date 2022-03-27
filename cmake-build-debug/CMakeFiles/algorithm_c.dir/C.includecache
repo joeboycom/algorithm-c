@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/joewu/CppProject/algorithm-c/main.c
-stackbyintarray.h
-/Users/joewu/CppProject/algorithm-c/stackbyintarray.h
+/Users/joewu/CppProject/algorithm-c/queueByIntArray.c
+stdio.h
+-
 
-/Users/joewu/CppProject/algorithm-c/stackbyintarray.c
+/Users/joewu/CppProject/algorithm-c/stackByIntArray.c
 stdio.h
 -
 stdlib.h
 -
-
-/Users/joewu/CppProject/algorithm-c/stackbyintarray.h
 
