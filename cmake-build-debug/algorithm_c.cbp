@@ -81,6 +81,12 @@
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/main.c">
 			<Option target="algorithm_c"/>
 		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/queueByCircular.c">
+			<Option target="algorithm_c"/>
+		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/queueByCircular.h">
+			<Option target="algorithm_c"/>
+		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/queueByIntArray.c">
 			<Option target="algorithm_c"/>
 		</Unit>

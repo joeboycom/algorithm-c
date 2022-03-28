@@ -6,13 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/Users/joewu/CppProject/algorithm-c/queueByIntArray.c
-stdio.h
--
+/Users/joewu/CppProject/algorithm-c/main.c
+stackByIntArray.h
+/Users/joewu/CppProject/algorithm-c/stackByIntArray.h
+queueByIntArray.h
+/Users/joewu/CppProject/algorithm-c/queueByIntArray.h
+queueByCircular.h
+/Users/joewu/CppProject/algorithm-c/queueByCircular.h
 
-/Users/joewu/CppProject/algorithm-c/stackByIntArray.c
+/Users/joewu/CppProject/algorithm-c/queueByCircular.c
 stdio.h
 -
-stdlib.h
--
+queueByCircular.h
+/Users/joewu/CppProject/algorithm-c/queueByCircular.h
+
+/Users/joewu/CppProject/algorithm-c/queueByCircular.h
+
+/Users/joewu/CppProject/algorithm-c/queueByIntArray.h
+
+/Users/joewu/CppProject/algorithm-c/stackByIntArray.h
 

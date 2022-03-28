@@ -170,6 +170,33 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/main.c.s
 .PHONY : main.c.s
 
+queueByCircular.o: queueByCircular.c.o
+
+.PHONY : queueByCircular.o
+
+# target to build an object file
+queueByCircular.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByCircular.c.o
+.PHONY : queueByCircular.c.o
+
+queueByCircular.i: queueByCircular.c.i
+
+.PHONY : queueByCircular.i
+
+# target to preprocess a source file
+queueByCircular.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByCircular.c.i
+.PHONY : queueByCircular.c.i
+
+queueByCircular.s: queueByCircular.c.s
+
+.PHONY : queueByCircular.s
+
+# target to generate assembly for a file
+queueByCircular.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByCircular.c.s
+.PHONY : queueByCircular.c.s
+
 queueByIntArray.o: queueByIntArray.c.o
 
 .PHONY : queueByIntArray.o
@@ -236,6 +263,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... queueByCircular.o"
+	@echo "... queueByCircular.i"
+	@echo "... queueByCircular.s"
 	@echo "... queueByIntArray.o"
 	@echo "... queueByIntArray.i"
 	@echo "... queueByIntArray.s"

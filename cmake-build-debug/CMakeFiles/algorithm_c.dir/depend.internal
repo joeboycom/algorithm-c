@@ -3,9 +3,14 @@
 
 CMakeFiles/algorithm_c.dir/main.c.o
  /Users/joewu/CppProject/algorithm-c/main.c
+ /Users/joewu/CppProject/algorithm-c/queueByCircular.h
  /Users/joewu/CppProject/algorithm-c/queueByIntArray.h
  /Users/joewu/CppProject/algorithm-c/stackByIntArray.h
+CMakeFiles/algorithm_c.dir/queueByCircular.c.o
+ /Users/joewu/CppProject/algorithm-c/queueByCircular.c
+ /Users/joewu/CppProject/algorithm-c/queueByCircular.h
 CMakeFiles/algorithm_c.dir/queueByIntArray.c.o
  /Users/joewu/CppProject/algorithm-c/queueByIntArray.c
+ /Users/joewu/CppProject/algorithm-c/queueByIntArray.h
 CMakeFiles/algorithm_c.dir/stackByIntArray.c.o
  /Users/joewu/CppProject/algorithm-c/stackByIntArray.c

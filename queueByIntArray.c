@@ -5,13 +5,15 @@
 // Queue implementation in C
 
 #include <stdio.h>
+#include "queueByIntArray.h"
+
 #define SIZE 5
+
+int items[SIZE], front, rear;
 
 void enQueue(int);
 void deQueue();
 void display();
-
-int items[SIZE], front = -1, rear = -1;
 
 void enQueue(int value) {
     if (rear == SIZE - 1)
@@ -49,6 +51,9 @@ void display() {
 }
 
 void doQueueByIntArray() {
+    front = -1;
+    rear = -1;
+
     //deQueue is not possible on empty queue
     deQueue();
 
