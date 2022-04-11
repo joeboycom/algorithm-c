@@ -143,6 +143,33 @@ algorithm_c/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/build
 .PHONY : algorithm_c/fast
 
+binarySearchByIteration.o: binarySearchByIteration.c.o
+
+.PHONY : binarySearchByIteration.o
+
+# target to build an object file
+binarySearchByIteration.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o
+.PHONY : binarySearchByIteration.c.o
+
+binarySearchByIteration.i: binarySearchByIteration.c.i
+
+.PHONY : binarySearchByIteration.i
+
+# target to preprocess a source file
+binarySearchByIteration.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.i
+.PHONY : binarySearchByIteration.c.i
+
+binarySearchByIteration.s: binarySearchByIteration.c.s
+
+.PHONY : binarySearchByIteration.s
+
+# target to generate assembly for a file
+binarySearchByIteration.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.s
+.PHONY : binarySearchByIteration.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -287,6 +314,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... algorithm_c"
+	@echo "... binarySearchByIteration.o"
+	@echo "... binarySearchByIteration.i"
+	@echo "... binarySearchByIteration.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

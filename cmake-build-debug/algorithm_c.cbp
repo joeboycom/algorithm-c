@@ -78,6 +78,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/binarySearchByIteration.c">
+			<Option target="algorithm_c"/>
+		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/binarySearchByIteration.h">
+			<Option target="algorithm_c"/>
+		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/main.c">
 			<Option target="algorithm_c"/>
 		</Unit>

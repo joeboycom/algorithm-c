@@ -2,12 +2,14 @@
 #include "queueByCircular.h"
 #include "queueByIntArray.h"
 #include "priorityQueueByIntArray.h"
+#include "binarySearchByIteration.h"
 
 int main() {
 
 //    doStackByIntArray();
 //    doQueueByIntArray();
 //    doQueueCircular();
-    doPriorityQueue();
+//    doPriorityQueue();
+    doBinarySearchByIteration();
     return 0;
 }
