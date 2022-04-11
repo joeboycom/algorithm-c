@@ -111,6 +111,12 @@
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/queueByIntArray.h">
 			<Option target="algorithm_c"/>
 		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c">
+			<Option target="algorithm_c"/>
+		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.h">
+			<Option target="algorithm_c"/>
+		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/stackByIntArray.c">
 			<Option target="algorithm_c"/>
 		</Unit>

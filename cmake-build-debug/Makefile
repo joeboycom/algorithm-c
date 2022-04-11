@@ -305,6 +305,33 @@ queueByIntArray.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByIntArray.c.s
 .PHONY : queueByIntArray.c.s
 
+selectionSortByIntArray.o: selectionSortByIntArray.c.o
+
+.PHONY : selectionSortByIntArray.o
+
+# target to build an object file
+selectionSortByIntArray.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o
+.PHONY : selectionSortByIntArray.c.o
+
+selectionSortByIntArray.i: selectionSortByIntArray.c.i
+
+.PHONY : selectionSortByIntArray.i
+
+# target to preprocess a source file
+selectionSortByIntArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.i
+.PHONY : selectionSortByIntArray.c.i
+
+selectionSortByIntArray.s: selectionSortByIntArray.c.s
+
+.PHONY : selectionSortByIntArray.s
+
+# target to generate assembly for a file
+selectionSortByIntArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.s
+.PHONY : selectionSortByIntArray.c.s
+
 stackByIntArray.o: stackByIntArray.c.o
 
 .PHONY : stackByIntArray.o
@@ -359,6 +386,9 @@ help:
 	@echo "... queueByIntArray.o"
 	@echo "... queueByIntArray.i"
 	@echo "... queueByIntArray.s"
+	@echo "... selectionSortByIntArray.o"
+	@echo "... selectionSortByIntArray.i"
+	@echo "... selectionSortByIntArray.s"
 	@echo "... stackByIntArray.o"
 	@echo "... stackByIntArray.i"
 	@echo "... stackByIntArray.s"

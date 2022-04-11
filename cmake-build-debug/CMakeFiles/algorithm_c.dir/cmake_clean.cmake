@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o"
   "CMakeFiles/algorithm_c.dir/queueByCircular.c.o"
   "CMakeFiles/algorithm_c.dir/queueByIntArray.c.o"
+  "CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o"
   "CMakeFiles/algorithm_c.dir/stackByIntArray.c.o"
   "algorithm_c"
   "algorithm_c.pdb"

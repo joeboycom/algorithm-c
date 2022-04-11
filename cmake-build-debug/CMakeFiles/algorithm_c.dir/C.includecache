@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.c
-binarySearchByRecursion.h
-/Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.h
+/Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c
+selectionSortByIntArray.h
+/Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.h
 stdio.h
 -
 
-/Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.h
+/Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.h
 
