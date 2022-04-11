@@ -9,16 +9,20 @@
 /Users/joewu/CppProject/algorithm-c/main.c
 stackByIntArray.h
 /Users/joewu/CppProject/algorithm-c/stackByIntArray.h
+queueByCircular.h
+/Users/joewu/CppProject/algorithm-c/queueByCircular.h
 queueByIntArray.h
 /Users/joewu/CppProject/algorithm-c/queueByIntArray.h
-queueByCircular.h
-/Users/joewu/CppProject/algorithm-c/queueByCircular.h
+priorityQueue.h
+/Users/joewu/CppProject/algorithm-c/priorityQueue.h
 
-/Users/joewu/CppProject/algorithm-c/queueByCircular.c
+/Users/joewu/CppProject/algorithm-c/priorityQueue.c
+priorityQueue.h
+/Users/joewu/CppProject/algorithm-c/priorityQueue.h
 stdio.h
 -
-queueByCircular.h
-/Users/joewu/CppProject/algorithm-c/queueByCircular.h
+
+/Users/joewu/CppProject/algorithm-c/priorityQueue.h
 
 /Users/joewu/CppProject/algorithm-c/queueByCircular.h
 

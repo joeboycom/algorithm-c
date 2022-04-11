@@ -170,6 +170,33 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/main.c.s
 .PHONY : main.c.s
 
+priorityQueueByIntArray.o: priorityQueueByIntArray.c.o
+
+.PHONY : priorityQueueByIntArray.o
+
+# target to build an object file
+priorityQueueByIntArray.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o
+.PHONY : priorityQueueByIntArray.c.o
+
+priorityQueueByIntArray.i: priorityQueueByIntArray.c.i
+
+.PHONY : priorityQueueByIntArray.i
+
+# target to preprocess a source file
+priorityQueueByIntArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.i
+.PHONY : priorityQueueByIntArray.c.i
+
+priorityQueueByIntArray.s: priorityQueueByIntArray.c.s
+
+.PHONY : priorityQueueByIntArray.s
+
+# target to generate assembly for a file
+priorityQueueByIntArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.s
+.PHONY : priorityQueueByIntArray.c.s
+
 queueByCircular.o: queueByCircular.c.o
 
 .PHONY : queueByCircular.o
@@ -263,6 +290,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... priorityQueueByIntArray.o"
+	@echo "... priorityQueueByIntArray.i"
+	@echo "... priorityQueueByIntArray.s"
 	@echo "... queueByCircular.o"
 	@echo "... queueByCircular.i"
 	@echo "... queueByCircular.s"
