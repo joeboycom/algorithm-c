@@ -5,6 +5,7 @@
 #include "binarySearchByRecursion.h"
 
 // Binary Search in C
+// The recursive method follows the divide and conquer approach.
 
 #include <stdio.h>
 
