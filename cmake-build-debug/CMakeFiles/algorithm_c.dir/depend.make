@@ -3,7 +3,11 @@
 
 CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o: ../binarySearchByIteration.c
 
+CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o: ../binarySearchByRecursion.c
+CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o: ../binarySearchByRecursion.h
+
 CMakeFiles/algorithm_c.dir/main.c.o: ../binarySearchByIteration.h
+CMakeFiles/algorithm_c.dir/main.c.o: ../binarySearchByRecursion.h
 CMakeFiles/algorithm_c.dir/main.c.o: ../main.c
 CMakeFiles/algorithm_c.dir/main.c.o: ../priorityQueueByIntArray.h
 CMakeFiles/algorithm_c.dir/main.c.o: ../queueByCircular.h

@@ -170,6 +170,33 @@ binarySearchByIteration.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.s
 .PHONY : binarySearchByIteration.c.s
 
+binarySearchByRecursion.o: binarySearchByRecursion.c.o
+
+.PHONY : binarySearchByRecursion.o
+
+# target to build an object file
+binarySearchByRecursion.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o
+.PHONY : binarySearchByRecursion.c.o
+
+binarySearchByRecursion.i: binarySearchByRecursion.c.i
+
+.PHONY : binarySearchByRecursion.i
+
+# target to preprocess a source file
+binarySearchByRecursion.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.i
+.PHONY : binarySearchByRecursion.c.i
+
+binarySearchByRecursion.s: binarySearchByRecursion.c.s
+
+.PHONY : binarySearchByRecursion.s
+
+# target to generate assembly for a file
+binarySearchByRecursion.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.s
+.PHONY : binarySearchByRecursion.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -317,6 +344,9 @@ help:
 	@echo "... binarySearchByIteration.o"
 	@echo "... binarySearchByIteration.i"
 	@echo "... binarySearchByIteration.s"
+	@echo "... binarySearchByRecursion.o"
+	@echo "... binarySearchByRecursion.i"
+	@echo "... binarySearchByRecursion.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

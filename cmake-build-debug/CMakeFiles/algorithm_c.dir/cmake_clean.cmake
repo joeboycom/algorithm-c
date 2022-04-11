@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o"
+  "CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o"
   "CMakeFiles/algorithm_c.dir/main.c.o"
   "CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o"
   "CMakeFiles/algorithm_c.dir/queueByCircular.c.o"

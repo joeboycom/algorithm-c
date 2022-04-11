@@ -6,35 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/joewu/CppProject/algorithm-c/binarySearchByIteration.c
+/Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.c
+binarySearchByRecursion.h
+/Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.h
 stdio.h
 -
 
-/Users/joewu/CppProject/algorithm-c/binarySearchByIteration.h
-
-/Users/joewu/CppProject/algorithm-c/main.c
-stackByIntArray.h
-/Users/joewu/CppProject/algorithm-c/stackByIntArray.h
-queueByCircular.h
-/Users/joewu/CppProject/algorithm-c/queueByCircular.h
-queueByIntArray.h
-/Users/joewu/CppProject/algorithm-c/queueByIntArray.h
-priorityQueueByIntArray.h
-/Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.h
-binarySearchByIteration.h
-/Users/joewu/CppProject/algorithm-c/binarySearchByIteration.h
-
-/Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.c
-priorityQueueByIntArray.h
-/Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.h
-stdio.h
--
-
-/Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.h
-
-/Users/joewu/CppProject/algorithm-c/queueByCircular.h
-
-/Users/joewu/CppProject/algorithm-c/queueByIntArray.h
-
-/Users/joewu/CppProject/algorithm-c/stackByIntArray.h
+/Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.h
 

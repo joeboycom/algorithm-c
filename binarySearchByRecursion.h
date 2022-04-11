@@ -1,0 +1,10 @@
+//
+// Created by Joe Wu on 2022/4/11.
+//
+
+#ifndef ALGORITHM_C_BINARYSEARCHBYRECURSION_H
+#define ALGORITHM_C_BINARYSEARCHBYRECURSION_H
+
+void doBinarySearchByRecursion();
+
+#endif //ALGORITHM_C_BINARYSEARCHBYRECURSION_H

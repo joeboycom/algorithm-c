@@ -3,6 +3,7 @@
 #include "queueByIntArray.h"
 #include "priorityQueueByIntArray.h"
 #include "binarySearchByIteration.h"
+#include "binarySearchByRecursion.h"
 
 int main() {
 
@@ -10,6 +11,9 @@ int main() {
 //    doQueueByIntArray();
 //    doQueueCircular();
 //    doPriorityQueue();
-    doBinarySearchByIteration();
+
+//    doBinarySearchByIteration();
+    doBinarySearchByRecursion();
+
     return 0;
 }
