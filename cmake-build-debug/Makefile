@@ -332,6 +332,33 @@ queueByIntArray.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByIntArray.c.s
 .PHONY : queueByIntArray.c.s
 
+quickSort.o: quickSort.c.o
+
+.PHONY : quickSort.o
+
+# target to build an object file
+quickSort.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSort.c.o
+.PHONY : quickSort.c.o
+
+quickSort.i: quickSort.c.i
+
+.PHONY : quickSort.i
+
+# target to preprocess a source file
+quickSort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSort.c.i
+.PHONY : quickSort.c.i
+
+quickSort.s: quickSort.c.s
+
+.PHONY : quickSort.s
+
+# target to generate assembly for a file
+quickSort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSort.c.s
+.PHONY : quickSort.c.s
+
 selectionSortByIntArray.o: selectionSortByIntArray.c.o
 
 .PHONY : selectionSortByIntArray.o
@@ -416,6 +443,9 @@ help:
 	@echo "... queueByIntArray.o"
 	@echo "... queueByIntArray.i"
 	@echo "... queueByIntArray.s"
+	@echo "... quickSort.o"
+	@echo "... quickSort.i"
+	@echo "... quickSort.s"
 	@echo "... selectionSortByIntArray.o"
 	@echo "... selectionSortByIntArray.i"
 	@echo "... selectionSortByIntArray.s"

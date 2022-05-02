@@ -8,7 +8,7 @@ CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o
  /Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.h
 CMakeFiles/algorithm_c.dir/main.c.o
  /Users/joewu/CppProject/algorithm-c/main.c
- /Users/joewu/CppProject/algorithm-c/mergeSort.h
+ /Users/joewu/CppProject/algorithm-c/quickSort.h
 CMakeFiles/algorithm_c.dir/mergeSort.c.o
  /Users/joewu/CppProject/algorithm-c/mergeSort.c
  /Users/joewu/CppProject/algorithm-c/mergeSort.h
@@ -21,6 +21,9 @@ CMakeFiles/algorithm_c.dir/queueByCircular.c.o
 CMakeFiles/algorithm_c.dir/queueByIntArray.c.o
  /Users/joewu/CppProject/algorithm-c/queueByIntArray.c
  /Users/joewu/CppProject/algorithm-c/queueByIntArray.h
+CMakeFiles/algorithm_c.dir/quickSort.c.o
+ /Users/joewu/CppProject/algorithm-c/quickSort.c
+ /Users/joewu/CppProject/algorithm-c/quickSort.h
 CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o
  /Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c
  /Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.h
