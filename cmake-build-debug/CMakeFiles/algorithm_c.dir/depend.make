@@ -7,10 +7,10 @@ CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o: ../binarySearchByRecursi
 CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o: ../binarySearchByRecursion.h
 
 CMakeFiles/algorithm_c.dir/main.c.o: ../main.c
-CMakeFiles/algorithm_c.dir/main.c.o: ../quickSort.h
+CMakeFiles/algorithm_c.dir/main.c.o: ../quickSortByRecursion.h
 
-CMakeFiles/algorithm_c.dir/mergeSort.c.o: ../mergeSort.c
-CMakeFiles/algorithm_c.dir/mergeSort.c.o: ../mergeSort.h
+CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o: ../mergeSortByRecursion.c
+CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o: ../mergeSortByRecursion.h
 
 CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o: ../priorityQueueByIntArray.c
 CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o: ../priorityQueueByIntArray.h
@@ -21,8 +21,8 @@ CMakeFiles/algorithm_c.dir/queueByCircular.c.o: ../queueByCircular.h
 CMakeFiles/algorithm_c.dir/queueByIntArray.c.o: ../queueByIntArray.c
 CMakeFiles/algorithm_c.dir/queueByIntArray.c.o: ../queueByIntArray.h
 
-CMakeFiles/algorithm_c.dir/quickSort.c.o: ../quickSort.c
-CMakeFiles/algorithm_c.dir/quickSort.c.o: ../quickSort.h
+CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o: ../quickSortByRecursion.c
+CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o: ../quickSortByRecursion.h
 
 CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o: ../selectionSortByIntArray.c
 CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o: ../selectionSortByIntArray.h

@@ -7,11 +7,11 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/joewu/CppProject/algorithm-c/binarySearchByIteration.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o"
   "/Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o"
   "/Users/joewu/CppProject/algorithm-c/main.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/main.c.o"
-  "/Users/joewu/CppProject/algorithm-c/mergeSort.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/mergeSort.c.o"
+  "/Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o"
   "/Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o"
   "/Users/joewu/CppProject/algorithm-c/queueByCircular.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/queueByCircular.c.o"
   "/Users/joewu/CppProject/algorithm-c/queueByIntArray.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/queueByIntArray.c.o"
-  "/Users/joewu/CppProject/algorithm-c/quickSort.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/quickSort.c.o"
+  "/Users/joewu/CppProject/algorithm-c/quickSortByRecursion.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o"
   "/Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o"
   "/Users/joewu/CppProject/algorithm-c/stackByIntArray.c" "/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles/algorithm_c.dir/stackByIntArray.c.o"
   )

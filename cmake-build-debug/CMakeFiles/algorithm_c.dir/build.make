@@ -181,31 +181,31 @@ CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c -o CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.s
 
-CMakeFiles/algorithm_c.dir/mergeSort.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/mergeSort.c.o: ../mergeSort.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/algorithm_c.dir/mergeSort.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/mergeSort.c.o   -c /Users/joewu/CppProject/algorithm-c/mergeSort.c
+CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o: ../mergeSortByRecursion.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o   -c /Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.c
 
-CMakeFiles/algorithm_c.dir/mergeSort.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/mergeSort.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/mergeSort.c > CMakeFiles/algorithm_c.dir/mergeSort.c.i
+CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.c > CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.i
 
-CMakeFiles/algorithm_c.dir/mergeSort.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/mergeSort.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/mergeSort.c -o CMakeFiles/algorithm_c.dir/mergeSort.c.s
+CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.c -o CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.s
 
-CMakeFiles/algorithm_c.dir/quickSort.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/quickSort.c.o: ../quickSort.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/algorithm_c.dir/quickSort.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/quickSort.c.o   -c /Users/joewu/CppProject/algorithm-c/quickSort.c
+CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o: ../quickSortByRecursion.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o   -c /Users/joewu/CppProject/algorithm-c/quickSortByRecursion.c
 
-CMakeFiles/algorithm_c.dir/quickSort.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/quickSort.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/quickSort.c > CMakeFiles/algorithm_c.dir/quickSort.c.i
+CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/quickSortByRecursion.c > CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.i
 
-CMakeFiles/algorithm_c.dir/quickSort.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/quickSort.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/quickSort.c -o CMakeFiles/algorithm_c.dir/quickSort.c.s
+CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/quickSortByRecursion.c -o CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.s
 
 # Object files for target algorithm_c
 algorithm_c_OBJECTS = \
@@ -217,8 +217,8 @@ algorithm_c_OBJECTS = \
 "CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o" \
 "CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o" \
 "CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o" \
-"CMakeFiles/algorithm_c.dir/mergeSort.c.o" \
-"CMakeFiles/algorithm_c.dir/quickSort.c.o"
+"CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o" \
+"CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o"
 
 # External object files for target algorithm_c
 algorithm_c_EXTERNAL_OBJECTS =
@@ -231,8 +231,8 @@ algorithm_c: CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o
 algorithm_c: CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o
 algorithm_c: CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o
 algorithm_c: CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/mergeSort.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/quickSort.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o
 algorithm_c: CMakeFiles/algorithm_c.dir/build.make
 algorithm_c: CMakeFiles/algorithm_c.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking C executable algorithm_c"

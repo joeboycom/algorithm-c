@@ -2,7 +2,7 @@
 // Created by Joe Wu on 2022/5/2.
 //
 
-#include "quickSort.h"
+#include "quickSortByRecursion.h"
 #include <stdio.h>
 
 // Quick sort in C

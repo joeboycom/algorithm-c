@@ -93,10 +93,10 @@
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/main.c">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/mergeSort.c">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.c">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/mergeSort.h">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.h">
 			<Option target="algorithm_c"/>
 		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.c">
@@ -117,10 +117,10 @@
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/queueByIntArray.h">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/quickSort.c">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/quickSortByRecursion.c">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/quickSort.h">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/quickSortByRecursion.h">
 			<Option target="algorithm_c"/>
 		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c">

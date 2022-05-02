@@ -6,11 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Users/joewu/CppProject/algorithm-c/quickSort.c
-quickSort.h
-/Users/joewu/CppProject/algorithm-c/quickSort.h
+/Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.c
+mergeSortByRecursion.h
+/Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.h
 stdio.h
 -
 
-/Users/joewu/CppProject/algorithm-c/quickSort.h
+/Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.h
+
+/Users/joewu/CppProject/algorithm-c/quickSortByRecursion.c
+quickSortByRecursion.h
+/Users/joewu/CppProject/algorithm-c/quickSortByRecursion.h
+stdio.h
+-
+
+/Users/joewu/CppProject/algorithm-c/quickSortByRecursion.h
 

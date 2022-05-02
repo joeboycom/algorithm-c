@@ -6,7 +6,7 @@
 //#include "binarySearchByRecursion.h"
 //#include "selectionSortByIntArray.h"
 //#include "mergeSort.h"
-#include "quickSort.h"
+#include "quickSortByRecursion.h"
 
 int main() {
 

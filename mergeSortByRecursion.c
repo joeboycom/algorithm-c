@@ -2,7 +2,7 @@
 // Created by Joe Wu on 2022/4/26.
 //
 
-#include "mergeSort.h"
+#include "mergeSortByRecursion.h"
 // Merge sort in C
 
 #include <stdio.h>

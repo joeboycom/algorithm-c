@@ -224,32 +224,32 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/main.c.s
 .PHONY : main.c.s
 
-mergeSort.o: mergeSort.c.o
+mergeSortByRecursion.o: mergeSortByRecursion.c.o
 
-.PHONY : mergeSort.o
+.PHONY : mergeSortByRecursion.o
 
 # target to build an object file
-mergeSort.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSort.c.o
-.PHONY : mergeSort.c.o
+mergeSortByRecursion.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o
+.PHONY : mergeSortByRecursion.c.o
 
-mergeSort.i: mergeSort.c.i
+mergeSortByRecursion.i: mergeSortByRecursion.c.i
 
-.PHONY : mergeSort.i
+.PHONY : mergeSortByRecursion.i
 
 # target to preprocess a source file
-mergeSort.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSort.c.i
-.PHONY : mergeSort.c.i
+mergeSortByRecursion.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.i
+.PHONY : mergeSortByRecursion.c.i
 
-mergeSort.s: mergeSort.c.s
+mergeSortByRecursion.s: mergeSortByRecursion.c.s
 
-.PHONY : mergeSort.s
+.PHONY : mergeSortByRecursion.s
 
 # target to generate assembly for a file
-mergeSort.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSort.c.s
-.PHONY : mergeSort.c.s
+mergeSortByRecursion.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.s
+.PHONY : mergeSortByRecursion.c.s
 
 priorityQueueByIntArray.o: priorityQueueByIntArray.c.o
 
@@ -332,32 +332,32 @@ queueByIntArray.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByIntArray.c.s
 .PHONY : queueByIntArray.c.s
 
-quickSort.o: quickSort.c.o
+quickSortByRecursion.o: quickSortByRecursion.c.o
 
-.PHONY : quickSort.o
+.PHONY : quickSortByRecursion.o
 
 # target to build an object file
-quickSort.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSort.c.o
-.PHONY : quickSort.c.o
+quickSortByRecursion.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o
+.PHONY : quickSortByRecursion.c.o
 
-quickSort.i: quickSort.c.i
+quickSortByRecursion.i: quickSortByRecursion.c.i
 
-.PHONY : quickSort.i
+.PHONY : quickSortByRecursion.i
 
 # target to preprocess a source file
-quickSort.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSort.c.i
-.PHONY : quickSort.c.i
+quickSortByRecursion.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.i
+.PHONY : quickSortByRecursion.c.i
 
-quickSort.s: quickSort.c.s
+quickSortByRecursion.s: quickSortByRecursion.c.s
 
-.PHONY : quickSort.s
+.PHONY : quickSortByRecursion.s
 
 # target to generate assembly for a file
-quickSort.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSort.c.s
-.PHONY : quickSort.c.s
+quickSortByRecursion.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.s
+.PHONY : quickSortByRecursion.c.s
 
 selectionSortByIntArray.o: selectionSortByIntArray.c.o
 
@@ -431,9 +431,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... mergeSort.o"
-	@echo "... mergeSort.i"
-	@echo "... mergeSort.s"
+	@echo "... mergeSortByRecursion.o"
+	@echo "... mergeSortByRecursion.i"
+	@echo "... mergeSortByRecursion.s"
 	@echo "... priorityQueueByIntArray.o"
 	@echo "... priorityQueueByIntArray.i"
 	@echo "... priorityQueueByIntArray.s"
@@ -443,9 +443,9 @@ help:
 	@echo "... queueByIntArray.o"
 	@echo "... queueByIntArray.i"
 	@echo "... queueByIntArray.s"
-	@echo "... quickSort.o"
-	@echo "... quickSort.i"
-	@echo "... quickSort.s"
+	@echo "... quickSortByRecursion.o"
+	@echo "... quickSortByRecursion.i"
+	@echo "... quickSortByRecursion.s"
 	@echo "... selectionSortByIntArray.o"
 	@echo "... selectionSortByIntArray.i"
 	@echo "... selectionSortByIntArray.s"
