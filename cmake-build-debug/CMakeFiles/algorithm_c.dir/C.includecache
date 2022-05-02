@@ -6,6 +6,18 @@
 
 #IncludeRegexTransform: 
 
+/Users/joewu/CppProject/algorithm-c/main.c
+mergeSort.h
+/Users/joewu/CppProject/algorithm-c/mergeSort.h
+
+/Users/joewu/CppProject/algorithm-c/mergeSort.c
+mergeSort.h
+/Users/joewu/CppProject/algorithm-c/mergeSort.h
+stdio.h
+-
+
+/Users/joewu/CppProject/algorithm-c/mergeSort.h
+
 /Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c
 selectionSortByIntArray.h
 /Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.h

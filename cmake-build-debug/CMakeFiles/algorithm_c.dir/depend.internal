@@ -8,7 +8,10 @@ CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o
  /Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.h
 CMakeFiles/algorithm_c.dir/main.c.o
  /Users/joewu/CppProject/algorithm-c/main.c
- /Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.h
+ /Users/joewu/CppProject/algorithm-c/mergeSort.h
+CMakeFiles/algorithm_c.dir/mergeSort.c.o
+ /Users/joewu/CppProject/algorithm-c/mergeSort.c
+ /Users/joewu/CppProject/algorithm-c/mergeSort.h
 CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o
  /Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.c
  /Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.h

@@ -224,6 +224,33 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/main.c.s
 .PHONY : main.c.s
 
+mergeSort.o: mergeSort.c.o
+
+.PHONY : mergeSort.o
+
+# target to build an object file
+mergeSort.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSort.c.o
+.PHONY : mergeSort.c.o
+
+mergeSort.i: mergeSort.c.i
+
+.PHONY : mergeSort.i
+
+# target to preprocess a source file
+mergeSort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSort.c.i
+.PHONY : mergeSort.c.i
+
+mergeSort.s: mergeSort.c.s
+
+.PHONY : mergeSort.s
+
+# target to generate assembly for a file
+mergeSort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSort.c.s
+.PHONY : mergeSort.c.s
+
 priorityQueueByIntArray.o: priorityQueueByIntArray.c.o
 
 .PHONY : priorityQueueByIntArray.o
@@ -377,6 +404,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... mergeSort.o"
+	@echo "... mergeSort.i"
+	@echo "... mergeSort.s"
 	@echo "... priorityQueueByIntArray.o"
 	@echo "... priorityQueueByIntArray.i"
 	@echo "... priorityQueueByIntArray.s"

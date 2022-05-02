@@ -93,6 +93,12 @@
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/main.c">
 			<Option target="algorithm_c"/>
 		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/mergeSort.c">
+			<Option target="algorithm_c"/>
+		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/mergeSort.h">
+			<Option target="algorithm_c"/>
+		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.c">
 			<Option target="algorithm_c"/>
 		</Unit>

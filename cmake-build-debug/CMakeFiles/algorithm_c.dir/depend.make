@@ -7,7 +7,10 @@ CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o: ../binarySearchByRecursi
 CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o: ../binarySearchByRecursion.h
 
 CMakeFiles/algorithm_c.dir/main.c.o: ../main.c
-CMakeFiles/algorithm_c.dir/main.c.o: ../selectionSortByIntArray.h
+CMakeFiles/algorithm_c.dir/main.c.o: ../mergeSort.h
+
+CMakeFiles/algorithm_c.dir/mergeSort.c.o: ../mergeSort.c
+CMakeFiles/algorithm_c.dir/mergeSort.c.o: ../mergeSort.h
 
 CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o: ../priorityQueueByIntArray.c
 CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o: ../priorityQueueByIntArray.h

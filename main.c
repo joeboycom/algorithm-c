@@ -4,7 +4,8 @@
 //#include "priorityQueueByIntArray.h"
 //#include "binarySearchByIteration.h"
 //#include "binarySearchByRecursion.h"
-#include "selectionSortByIntArray.h"
+//#include "selectionSortByIntArray.h"
+#include "mergeSort.h"
 
 int main() {
 
@@ -15,7 +16,8 @@ int main() {
 
 //    doBinarySearchByIteration();
 //    doBinarySearchByRecursion();
-    doSelectionSortByIntArray();
+//    doSelectionSortByIntArray();
+    doMergeSort();
 
     return 0;
 }
