@@ -6,7 +6,8 @@
 //#include "binarySearchByRecursion.h"
 //#include "selectionSortByIntArray.h"
 //#include "mergeSort.h"
-#include "quickSortByRecursion.h"
+//#include "quickSortByRecursion.h"
+#include "minimumSpanningTreeKruskal.h"
 
 int main() {
 
@@ -19,6 +20,7 @@ int main() {
 //    doBinarySearchByRecursion();
 //    doSelectionSortByIntArray();
 //    doMergeSort();
-    doQuickSort();
+//    doQuickSort();
+    doMSTKruskal();
     return 0;
 }

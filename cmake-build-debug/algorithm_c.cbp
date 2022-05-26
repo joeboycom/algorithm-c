@@ -99,6 +99,9 @@
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.h">
 			<Option target="algorithm_c"/>
 		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/minimumSpanningTreeKruskal.h">
+			<Option target="algorithm_c"/>
+		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.c">
 			<Option target="algorithm_c"/>
 		</Unit>

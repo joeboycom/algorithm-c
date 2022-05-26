@@ -7,7 +7,7 @@ CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o: ../binarySearchByRecursi
 CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o: ../binarySearchByRecursion.h
 
 CMakeFiles/algorithm_c.dir/main.c.o: ../main.c
-CMakeFiles/algorithm_c.dir/main.c.o: ../quickSortByRecursion.h
+CMakeFiles/algorithm_c.dir/main.c.o: ../minimumSpanningTreeKruskal.h
 
 CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o: ../mergeSortByRecursion.c
 CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o: ../mergeSortByRecursion.h
