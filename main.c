@@ -7,7 +7,8 @@
 //#include "selectionSortByIntArray.h"
 //#include "mergeSort.h"
 //#include "quickSortByRecursion.h"
-#include "minimumSpanningTreeKruskal.h"
+//#include "minimumSpanningTreeKruskal.h"
+#include "minimumSpanningTreePrim.h"
 
 int main() {
 
@@ -21,6 +22,7 @@ int main() {
 //    doSelectionSortByIntArray();
 //    doMergeSort();
 //    doQuickSort();
-    doMSTKruskal();
+//    doMSTKruskal();
+    doMSTPrim();
     return 0;
 }

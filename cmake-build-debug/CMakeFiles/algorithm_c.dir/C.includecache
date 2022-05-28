@@ -7,10 +7,14 @@
 #IncludeRegexTransform: 
 
 /Users/joewu/CppProject/algorithm-c/main.c
-minimumSpanningTreeKruskal.h
-/Users/joewu/CppProject/algorithm-c/minimumSpanningTreeKruskal.h
+minimumSpanningTreePrim.h
+/Users/joewu/CppProject/algorithm-c/minimumSpanningTreePrim.h
 
-/Users/joewu/CppProject/algorithm-c/minimumSpanningTreeKruskal.h
+/Users/joewu/CppProject/algorithm-c/minimumSpanningTreePrim.h
+limits.h
+-
+stdbool.h
+-
 stdio.h
 -
 
