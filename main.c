@@ -1,12 +1,4 @@
-//#include "stackByIntArray.h"
-//#include "queueByCircular.h"
-//#include "queueByIntArray.h"
-//#include "priorityQueueByIntArray.h"
-//#include "binarySearchByIteration.h"
-//#include "binarySearchByRecursion.h"
-//#include "selectionSortByIntArray.h"
-//#include "mergeSort.h"
-//#include "quickSortByRecursion.h"
+
 //#include "minimumSpanningTreeKruskal.h"
 #include "minimumSpanningTreePrim.h"
 
@@ -23,6 +15,6 @@ int main() {
 //    doMergeSort();
 //    doQuickSort();
 //    doMSTKruskal();
-    doMSTPrim();
+//    doMSTPrim();
     return 0;
 }

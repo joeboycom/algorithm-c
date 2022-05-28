@@ -143,60 +143,6 @@ algorithm_c/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/build
 .PHONY : algorithm_c/fast
 
-binarySearchByIteration.o: binarySearchByIteration.c.o
-
-.PHONY : binarySearchByIteration.o
-
-# target to build an object file
-binarySearchByIteration.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o
-.PHONY : binarySearchByIteration.c.o
-
-binarySearchByIteration.i: binarySearchByIteration.c.i
-
-.PHONY : binarySearchByIteration.i
-
-# target to preprocess a source file
-binarySearchByIteration.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.i
-.PHONY : binarySearchByIteration.c.i
-
-binarySearchByIteration.s: binarySearchByIteration.c.s
-
-.PHONY : binarySearchByIteration.s
-
-# target to generate assembly for a file
-binarySearchByIteration.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.s
-.PHONY : binarySearchByIteration.c.s
-
-binarySearchByRecursion.o: binarySearchByRecursion.c.o
-
-.PHONY : binarySearchByRecursion.o
-
-# target to build an object file
-binarySearchByRecursion.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o
-.PHONY : binarySearchByRecursion.c.o
-
-binarySearchByRecursion.i: binarySearchByRecursion.c.i
-
-.PHONY : binarySearchByRecursion.i
-
-# target to preprocess a source file
-binarySearchByRecursion.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.i
-.PHONY : binarySearchByRecursion.c.i
-
-binarySearchByRecursion.s: binarySearchByRecursion.c.s
-
-.PHONY : binarySearchByRecursion.s
-
-# target to generate assembly for a file
-binarySearchByRecursion.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.s
-.PHONY : binarySearchByRecursion.c.s
-
 main.o: main.c.o
 
 .PHONY : main.o
@@ -224,194 +170,248 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/main.c.s
 .PHONY : main.c.s
 
-mergeSortByRecursion.o: mergeSortByRecursion.c.o
+queue/priorityQueueByIntArray.o: queue/priorityQueueByIntArray.c.o
 
-.PHONY : mergeSortByRecursion.o
-
-# target to build an object file
-mergeSortByRecursion.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o
-.PHONY : mergeSortByRecursion.c.o
-
-mergeSortByRecursion.i: mergeSortByRecursion.c.i
-
-.PHONY : mergeSortByRecursion.i
-
-# target to preprocess a source file
-mergeSortByRecursion.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.i
-.PHONY : mergeSortByRecursion.c.i
-
-mergeSortByRecursion.s: mergeSortByRecursion.c.s
-
-.PHONY : mergeSortByRecursion.s
-
-# target to generate assembly for a file
-mergeSortByRecursion.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.s
-.PHONY : mergeSortByRecursion.c.s
-
-priorityQueueByIntArray.o: priorityQueueByIntArray.c.o
-
-.PHONY : priorityQueueByIntArray.o
+.PHONY : queue/priorityQueueByIntArray.o
 
 # target to build an object file
-priorityQueueByIntArray.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o
-.PHONY : priorityQueueByIntArray.c.o
+queue/priorityQueueByIntArray.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.o
+.PHONY : queue/priorityQueueByIntArray.c.o
 
-priorityQueueByIntArray.i: priorityQueueByIntArray.c.i
+queue/priorityQueueByIntArray.i: queue/priorityQueueByIntArray.c.i
 
-.PHONY : priorityQueueByIntArray.i
+.PHONY : queue/priorityQueueByIntArray.i
 
 # target to preprocess a source file
-priorityQueueByIntArray.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.i
-.PHONY : priorityQueueByIntArray.c.i
+queue/priorityQueueByIntArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.i
+.PHONY : queue/priorityQueueByIntArray.c.i
 
-priorityQueueByIntArray.s: priorityQueueByIntArray.c.s
+queue/priorityQueueByIntArray.s: queue/priorityQueueByIntArray.c.s
 
-.PHONY : priorityQueueByIntArray.s
+.PHONY : queue/priorityQueueByIntArray.s
 
 # target to generate assembly for a file
-priorityQueueByIntArray.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.s
-.PHONY : priorityQueueByIntArray.c.s
+queue/priorityQueueByIntArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.s
+.PHONY : queue/priorityQueueByIntArray.c.s
 
-queueByCircular.o: queueByCircular.c.o
+queue/queueByCircular.o: queue/queueByCircular.c.o
 
-.PHONY : queueByCircular.o
+.PHONY : queue/queueByCircular.o
 
 # target to build an object file
-queueByCircular.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByCircular.c.o
-.PHONY : queueByCircular.c.o
+queue/queueByCircular.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.o
+.PHONY : queue/queueByCircular.c.o
 
-queueByCircular.i: queueByCircular.c.i
+queue/queueByCircular.i: queue/queueByCircular.c.i
 
-.PHONY : queueByCircular.i
+.PHONY : queue/queueByCircular.i
 
 # target to preprocess a source file
-queueByCircular.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByCircular.c.i
-.PHONY : queueByCircular.c.i
+queue/queueByCircular.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.i
+.PHONY : queue/queueByCircular.c.i
 
-queueByCircular.s: queueByCircular.c.s
+queue/queueByCircular.s: queue/queueByCircular.c.s
 
-.PHONY : queueByCircular.s
+.PHONY : queue/queueByCircular.s
 
 # target to generate assembly for a file
-queueByCircular.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByCircular.c.s
-.PHONY : queueByCircular.c.s
+queue/queueByCircular.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.s
+.PHONY : queue/queueByCircular.c.s
 
-queueByIntArray.o: queueByIntArray.c.o
+queue/queueByIntArray.o: queue/queueByIntArray.c.o
 
-.PHONY : queueByIntArray.o
+.PHONY : queue/queueByIntArray.o
 
 # target to build an object file
-queueByIntArray.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByIntArray.c.o
-.PHONY : queueByIntArray.c.o
+queue/queueByIntArray.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.o
+.PHONY : queue/queueByIntArray.c.o
 
-queueByIntArray.i: queueByIntArray.c.i
+queue/queueByIntArray.i: queue/queueByIntArray.c.i
 
-.PHONY : queueByIntArray.i
+.PHONY : queue/queueByIntArray.i
 
 # target to preprocess a source file
-queueByIntArray.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByIntArray.c.i
-.PHONY : queueByIntArray.c.i
+queue/queueByIntArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.i
+.PHONY : queue/queueByIntArray.c.i
 
-queueByIntArray.s: queueByIntArray.c.s
+queue/queueByIntArray.s: queue/queueByIntArray.c.s
 
-.PHONY : queueByIntArray.s
+.PHONY : queue/queueByIntArray.s
 
 # target to generate assembly for a file
-queueByIntArray.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queueByIntArray.c.s
-.PHONY : queueByIntArray.c.s
+queue/queueByIntArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.s
+.PHONY : queue/queueByIntArray.c.s
 
-quickSortByRecursion.o: quickSortByRecursion.c.o
+searching/binarySearchByIteration.o: searching/binarySearchByIteration.c.o
 
-.PHONY : quickSortByRecursion.o
+.PHONY : searching/binarySearchByIteration.o
 
 # target to build an object file
-quickSortByRecursion.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o
-.PHONY : quickSortByRecursion.c.o
+searching/binarySearchByIteration.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.o
+.PHONY : searching/binarySearchByIteration.c.o
 
-quickSortByRecursion.i: quickSortByRecursion.c.i
+searching/binarySearchByIteration.i: searching/binarySearchByIteration.c.i
 
-.PHONY : quickSortByRecursion.i
+.PHONY : searching/binarySearchByIteration.i
 
 # target to preprocess a source file
-quickSortByRecursion.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.i
-.PHONY : quickSortByRecursion.c.i
+searching/binarySearchByIteration.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.i
+.PHONY : searching/binarySearchByIteration.c.i
 
-quickSortByRecursion.s: quickSortByRecursion.c.s
+searching/binarySearchByIteration.s: searching/binarySearchByIteration.c.s
 
-.PHONY : quickSortByRecursion.s
+.PHONY : searching/binarySearchByIteration.s
 
 # target to generate assembly for a file
-quickSortByRecursion.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.s
-.PHONY : quickSortByRecursion.c.s
+searching/binarySearchByIteration.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.s
+.PHONY : searching/binarySearchByIteration.c.s
 
-selectionSortByIntArray.o: selectionSortByIntArray.c.o
+searching/binarySearchByRecursion.o: searching/binarySearchByRecursion.c.o
 
-.PHONY : selectionSortByIntArray.o
+.PHONY : searching/binarySearchByRecursion.o
 
 # target to build an object file
-selectionSortByIntArray.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o
-.PHONY : selectionSortByIntArray.c.o
+searching/binarySearchByRecursion.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.o
+.PHONY : searching/binarySearchByRecursion.c.o
 
-selectionSortByIntArray.i: selectionSortByIntArray.c.i
+searching/binarySearchByRecursion.i: searching/binarySearchByRecursion.c.i
 
-.PHONY : selectionSortByIntArray.i
+.PHONY : searching/binarySearchByRecursion.i
 
 # target to preprocess a source file
-selectionSortByIntArray.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.i
-.PHONY : selectionSortByIntArray.c.i
+searching/binarySearchByRecursion.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.i
+.PHONY : searching/binarySearchByRecursion.c.i
 
-selectionSortByIntArray.s: selectionSortByIntArray.c.s
+searching/binarySearchByRecursion.s: searching/binarySearchByRecursion.c.s
 
-.PHONY : selectionSortByIntArray.s
+.PHONY : searching/binarySearchByRecursion.s
 
 # target to generate assembly for a file
-selectionSortByIntArray.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.s
-.PHONY : selectionSortByIntArray.c.s
+searching/binarySearchByRecursion.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.s
+.PHONY : searching/binarySearchByRecursion.c.s
 
-stackByIntArray.o: stackByIntArray.c.o
+sorting/mergeSortByRecursion.o: sorting/mergeSortByRecursion.c.o
 
-.PHONY : stackByIntArray.o
+.PHONY : sorting/mergeSortByRecursion.o
 
 # target to build an object file
-stackByIntArray.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackByIntArray.c.o
-.PHONY : stackByIntArray.c.o
+sorting/mergeSortByRecursion.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.o
+.PHONY : sorting/mergeSortByRecursion.c.o
 
-stackByIntArray.i: stackByIntArray.c.i
+sorting/mergeSortByRecursion.i: sorting/mergeSortByRecursion.c.i
 
-.PHONY : stackByIntArray.i
+.PHONY : sorting/mergeSortByRecursion.i
 
 # target to preprocess a source file
-stackByIntArray.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackByIntArray.c.i
-.PHONY : stackByIntArray.c.i
+sorting/mergeSortByRecursion.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.i
+.PHONY : sorting/mergeSortByRecursion.c.i
 
-stackByIntArray.s: stackByIntArray.c.s
+sorting/mergeSortByRecursion.s: sorting/mergeSortByRecursion.c.s
 
-.PHONY : stackByIntArray.s
+.PHONY : sorting/mergeSortByRecursion.s
 
 # target to generate assembly for a file
-stackByIntArray.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stackByIntArray.c.s
-.PHONY : stackByIntArray.c.s
+sorting/mergeSortByRecursion.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.s
+.PHONY : sorting/mergeSortByRecursion.c.s
+
+sorting/quickSortByRecursion.o: sorting/quickSortByRecursion.c.o
+
+.PHONY : sorting/quickSortByRecursion.o
+
+# target to build an object file
+sorting/quickSortByRecursion.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.o
+.PHONY : sorting/quickSortByRecursion.c.o
+
+sorting/quickSortByRecursion.i: sorting/quickSortByRecursion.c.i
+
+.PHONY : sorting/quickSortByRecursion.i
+
+# target to preprocess a source file
+sorting/quickSortByRecursion.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.i
+.PHONY : sorting/quickSortByRecursion.c.i
+
+sorting/quickSortByRecursion.s: sorting/quickSortByRecursion.c.s
+
+.PHONY : sorting/quickSortByRecursion.s
+
+# target to generate assembly for a file
+sorting/quickSortByRecursion.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.s
+.PHONY : sorting/quickSortByRecursion.c.s
+
+sorting/selectionSortByIntArray.o: sorting/selectionSortByIntArray.c.o
+
+.PHONY : sorting/selectionSortByIntArray.o
+
+# target to build an object file
+sorting/selectionSortByIntArray.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.o
+.PHONY : sorting/selectionSortByIntArray.c.o
+
+sorting/selectionSortByIntArray.i: sorting/selectionSortByIntArray.c.i
+
+.PHONY : sorting/selectionSortByIntArray.i
+
+# target to preprocess a source file
+sorting/selectionSortByIntArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.i
+.PHONY : sorting/selectionSortByIntArray.c.i
+
+sorting/selectionSortByIntArray.s: sorting/selectionSortByIntArray.c.s
+
+.PHONY : sorting/selectionSortByIntArray.s
+
+# target to generate assembly for a file
+sorting/selectionSortByIntArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.s
+.PHONY : sorting/selectionSortByIntArray.c.s
+
+stack/stackByIntArray.o: stack/stackByIntArray.c.o
+
+.PHONY : stack/stackByIntArray.o
+
+# target to build an object file
+stack/stackByIntArray.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.o
+.PHONY : stack/stackByIntArray.c.o
+
+stack/stackByIntArray.i: stack/stackByIntArray.c.i
+
+.PHONY : stack/stackByIntArray.i
+
+# target to preprocess a source file
+stack/stackByIntArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.i
+.PHONY : stack/stackByIntArray.c.i
+
+stack/stackByIntArray.s: stack/stackByIntArray.c.s
+
+.PHONY : stack/stackByIntArray.s
+
+# target to generate assembly for a file
+stack/stackByIntArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_c.dir/build.make CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.s
+.PHONY : stack/stackByIntArray.c.s
 
 # Help Target
 help:
@@ -422,36 +422,36 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... algorithm_c"
-	@echo "... binarySearchByIteration.o"
-	@echo "... binarySearchByIteration.i"
-	@echo "... binarySearchByIteration.s"
-	@echo "... binarySearchByRecursion.o"
-	@echo "... binarySearchByRecursion.i"
-	@echo "... binarySearchByRecursion.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... mergeSortByRecursion.o"
-	@echo "... mergeSortByRecursion.i"
-	@echo "... mergeSortByRecursion.s"
-	@echo "... priorityQueueByIntArray.o"
-	@echo "... priorityQueueByIntArray.i"
-	@echo "... priorityQueueByIntArray.s"
-	@echo "... queueByCircular.o"
-	@echo "... queueByCircular.i"
-	@echo "... queueByCircular.s"
-	@echo "... queueByIntArray.o"
-	@echo "... queueByIntArray.i"
-	@echo "... queueByIntArray.s"
-	@echo "... quickSortByRecursion.o"
-	@echo "... quickSortByRecursion.i"
-	@echo "... quickSortByRecursion.s"
-	@echo "... selectionSortByIntArray.o"
-	@echo "... selectionSortByIntArray.i"
-	@echo "... selectionSortByIntArray.s"
-	@echo "... stackByIntArray.o"
-	@echo "... stackByIntArray.i"
-	@echo "... stackByIntArray.s"
+	@echo "... queue/priorityQueueByIntArray.o"
+	@echo "... queue/priorityQueueByIntArray.i"
+	@echo "... queue/priorityQueueByIntArray.s"
+	@echo "... queue/queueByCircular.o"
+	@echo "... queue/queueByCircular.i"
+	@echo "... queue/queueByCircular.s"
+	@echo "... queue/queueByIntArray.o"
+	@echo "... queue/queueByIntArray.i"
+	@echo "... queue/queueByIntArray.s"
+	@echo "... searching/binarySearchByIteration.o"
+	@echo "... searching/binarySearchByIteration.i"
+	@echo "... searching/binarySearchByIteration.s"
+	@echo "... searching/binarySearchByRecursion.o"
+	@echo "... searching/binarySearchByRecursion.i"
+	@echo "... searching/binarySearchByRecursion.s"
+	@echo "... sorting/mergeSortByRecursion.o"
+	@echo "... sorting/mergeSortByRecursion.i"
+	@echo "... sorting/mergeSortByRecursion.s"
+	@echo "... sorting/quickSortByRecursion.o"
+	@echo "... sorting/quickSortByRecursion.i"
+	@echo "... sorting/quickSortByRecursion.s"
+	@echo "... sorting/selectionSortByIntArray.o"
+	@echo "... sorting/selectionSortByIntArray.i"
+	@echo "... sorting/selectionSortByIntArray.s"
+	@echo "... stack/stackByIntArray.o"
+	@echo "... stack/stackByIntArray.i"
+	@echo "... stack/stackByIntArray.s"
 .PHONY : help
 
 

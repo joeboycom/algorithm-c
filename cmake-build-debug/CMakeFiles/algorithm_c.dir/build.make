@@ -90,149 +90,149 @@ CMakeFiles/algorithm_c.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/main.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/main.c -o CMakeFiles/algorithm_c.dir/main.c.s
 
-CMakeFiles/algorithm_c.dir/stackByIntArray.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/stackByIntArray.c.o: ../stackByIntArray.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/algorithm_c.dir/stackByIntArray.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/stackByIntArray.c.o   -c /Users/joewu/CppProject/algorithm-c/stackByIntArray.c
+CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.o: ../stack/stackByIntArray.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.o   -c /Users/joewu/CppProject/algorithm-c/stack/stackByIntArray.c
 
-CMakeFiles/algorithm_c.dir/stackByIntArray.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/stackByIntArray.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/stackByIntArray.c > CMakeFiles/algorithm_c.dir/stackByIntArray.c.i
+CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/stack/stackByIntArray.c > CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.i
 
-CMakeFiles/algorithm_c.dir/stackByIntArray.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/stackByIntArray.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/stackByIntArray.c -o CMakeFiles/algorithm_c.dir/stackByIntArray.c.s
+CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/stack/stackByIntArray.c -o CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.s
 
-CMakeFiles/algorithm_c.dir/queueByIntArray.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/queueByIntArray.c.o: ../queueByIntArray.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/algorithm_c.dir/queueByIntArray.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/queueByIntArray.c.o   -c /Users/joewu/CppProject/algorithm-c/queueByIntArray.c
+CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.o: ../queue/queueByIntArray.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.o   -c /Users/joewu/CppProject/algorithm-c/queue/queueByIntArray.c
 
-CMakeFiles/algorithm_c.dir/queueByIntArray.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/queueByIntArray.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/queueByIntArray.c > CMakeFiles/algorithm_c.dir/queueByIntArray.c.i
+CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/queue/queueByIntArray.c > CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.i
 
-CMakeFiles/algorithm_c.dir/queueByIntArray.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/queueByIntArray.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/queueByIntArray.c -o CMakeFiles/algorithm_c.dir/queueByIntArray.c.s
+CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/queue/queueByIntArray.c -o CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.s
 
-CMakeFiles/algorithm_c.dir/queueByCircular.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/queueByCircular.c.o: ../queueByCircular.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/algorithm_c.dir/queueByCircular.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/queueByCircular.c.o   -c /Users/joewu/CppProject/algorithm-c/queueByCircular.c
+CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.o: ../queue/queueByCircular.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.o   -c /Users/joewu/CppProject/algorithm-c/queue/queueByCircular.c
 
-CMakeFiles/algorithm_c.dir/queueByCircular.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/queueByCircular.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/queueByCircular.c > CMakeFiles/algorithm_c.dir/queueByCircular.c.i
+CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/queue/queueByCircular.c > CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.i
 
-CMakeFiles/algorithm_c.dir/queueByCircular.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/queueByCircular.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/queueByCircular.c -o CMakeFiles/algorithm_c.dir/queueByCircular.c.s
+CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/queue/queueByCircular.c -o CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.s
 
-CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o: ../priorityQueueByIntArray.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o   -c /Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.c
+CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.o: ../queue/priorityQueueByIntArray.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.o   -c /Users/joewu/CppProject/algorithm-c/queue/priorityQueueByIntArray.c
 
-CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.c > CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.i
+CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/queue/priorityQueueByIntArray.c > CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.i
 
-CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.c -o CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.s
+CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/queue/priorityQueueByIntArray.c -o CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.s
 
-CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o: ../binarySearchByIteration.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o   -c /Users/joewu/CppProject/algorithm-c/binarySearchByIteration.c
+CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.o: ../searching/binarySearchByIteration.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.o   -c /Users/joewu/CppProject/algorithm-c/searching/binarySearchByIteration.c
 
-CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/binarySearchByIteration.c > CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.i
+CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/searching/binarySearchByIteration.c > CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.i
 
-CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/binarySearchByIteration.c -o CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.s
+CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/searching/binarySearchByIteration.c -o CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.s
 
-CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o: ../binarySearchByRecursion.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o   -c /Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.c
+CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.o: ../searching/binarySearchByRecursion.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.o   -c /Users/joewu/CppProject/algorithm-c/searching/binarySearchByRecursion.c
 
-CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.c > CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.i
+CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/searching/binarySearchByRecursion.c > CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.i
 
-CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.c -o CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.s
+CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/searching/binarySearchByRecursion.c -o CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.s
 
-CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o: ../selectionSortByIntArray.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o   -c /Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c
+CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.o: ../sorting/selectionSortByIntArray.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.o   -c /Users/joewu/CppProject/algorithm-c/sorting/selectionSortByIntArray.c
 
-CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c > CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.i
+CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/sorting/selectionSortByIntArray.c > CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.i
 
-CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c -o CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.s
+CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/sorting/selectionSortByIntArray.c -o CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.s
 
-CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o: ../mergeSortByRecursion.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o   -c /Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.c
+CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.o: ../sorting/mergeSortByRecursion.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.o   -c /Users/joewu/CppProject/algorithm-c/sorting/mergeSortByRecursion.c
 
-CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.c > CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.i
+CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/sorting/mergeSortByRecursion.c > CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.i
 
-CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.c -o CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.s
+CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/sorting/mergeSortByRecursion.c -o CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.s
 
-CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o: CMakeFiles/algorithm_c.dir/flags.make
-CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o: ../quickSortByRecursion.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o   -c /Users/joewu/CppProject/algorithm-c/quickSortByRecursion.c
+CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.o: CMakeFiles/algorithm_c.dir/flags.make
+CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.o: ../sorting/quickSortByRecursion.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.o   -c /Users/joewu/CppProject/algorithm-c/sorting/quickSortByRecursion.c
 
-CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/quickSortByRecursion.c > CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.i
+CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/joewu/CppProject/algorithm-c/sorting/quickSortByRecursion.c > CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.i
 
-CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/quickSortByRecursion.c -o CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.s
+CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/joewu/CppProject/algorithm-c/sorting/quickSortByRecursion.c -o CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.s
 
 # Object files for target algorithm_c
 algorithm_c_OBJECTS = \
 "CMakeFiles/algorithm_c.dir/main.c.o" \
-"CMakeFiles/algorithm_c.dir/stackByIntArray.c.o" \
-"CMakeFiles/algorithm_c.dir/queueByIntArray.c.o" \
-"CMakeFiles/algorithm_c.dir/queueByCircular.c.o" \
-"CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o" \
-"CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o" \
-"CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o" \
-"CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o" \
-"CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o" \
-"CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o"
+"CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.o" \
+"CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.o" \
+"CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.o" \
+"CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.o" \
+"CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.o" \
+"CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.o" \
+"CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.o" \
+"CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.o" \
+"CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.o"
 
 # External object files for target algorithm_c
 algorithm_c_EXTERNAL_OBJECTS =
 
 algorithm_c: CMakeFiles/algorithm_c.dir/main.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/stackByIntArray.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/queueByIntArray.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/queueByCircular.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/priorityQueueByIntArray.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/binarySearchByIteration.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/binarySearchByRecursion.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/selectionSortByIntArray.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/mergeSortByRecursion.c.o
-algorithm_c: CMakeFiles/algorithm_c.dir/quickSortByRecursion.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/stack/stackByIntArray.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/queue/queueByIntArray.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/queue/queueByCircular.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/searching/binarySearchByIteration.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/searching/binarySearchByRecursion.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/sorting/selectionSortByIntArray.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/sorting/mergeSortByRecursion.c.o
+algorithm_c: CMakeFiles/algorithm_c.dir/sorting/quickSortByRecursion.c.o
 algorithm_c: CMakeFiles/algorithm_c.dir/build.make
 algorithm_c: CMakeFiles/algorithm_c.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/joewu/CppProject/algorithm-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking C executable algorithm_c"

@@ -78,64 +78,64 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/binarySearchByIteration.c">
-			<Option target="algorithm_c"/>
-		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/binarySearchByIteration.h">
-			<Option target="algorithm_c"/>
-		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.c">
-			<Option target="algorithm_c"/>
-		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/binarySearchByRecursion.h">
-			<Option target="algorithm_c"/>
-		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/main.c">
-			<Option target="algorithm_c"/>
-		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.c">
-			<Option target="algorithm_c"/>
-		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/mergeSortByRecursion.h">
 			<Option target="algorithm_c"/>
 		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/minimumSpanningTreeKruskal.h">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.c">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/queue/priorityQueueByIntArray.c">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/priorityQueueByIntArray.h">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/queue/priorityQueueByIntArray.h">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/queueByCircular.c">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/queue/queueByCircular.c">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/queueByCircular.h">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/queue/queueByCircular.h">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/queueByIntArray.c">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/queue/queueByIntArray.c">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/queueByIntArray.h">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/queue/queueByIntArray.h">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/quickSortByRecursion.c">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/searching/binarySearchByIteration.c">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/quickSortByRecursion.h">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/searching/binarySearchByIteration.h">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.c">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/searching/binarySearchByRecursion.c">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/selectionSortByIntArray.h">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/searching/binarySearchByRecursion.h">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/stackByIntArray.c">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/sorting/mergeSortByRecursion.c">
 			<Option target="algorithm_c"/>
 		</Unit>
-		<Unit filename="/Users/joewu/CppProject/algorithm-c/stackByIntArray.h">
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/sorting/mergeSortByRecursion.h">
+			<Option target="algorithm_c"/>
+		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/sorting/quickSortByRecursion.c">
+			<Option target="algorithm_c"/>
+		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/sorting/quickSortByRecursion.h">
+			<Option target="algorithm_c"/>
+		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/sorting/selectionSortByIntArray.c">
+			<Option target="algorithm_c"/>
+		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/sorting/selectionSortByIntArray.h">
+			<Option target="algorithm_c"/>
+		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/stack/stackByIntArray.c">
+			<Option target="algorithm_c"/>
+		</Unit>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/stack/stackByIntArray.h">
 			<Option target="algorithm_c"/>
 		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/CMakeLists.txt">

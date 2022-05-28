@@ -3,4 +3,4 @@ project(algorithm_c C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(algorithm_c main.c stackByIntArray.c stackByIntArray.h queueByIntArray.c queueByIntArray.h queueByCircular.c queueByCircular.h priorityQueueByIntArray.c priorityQueueByIntArray.h binarySearchByIteration.c binarySearchByIteration.h binarySearchByRecursion.c binarySearchByRecursion.h selectionSortByIntArray.c selectionSortByIntArray.h mergeSortByRecursion.c mergeSortByRecursion.h quickSortByRecursion.h quickSortByRecursion.c minimumSpanningTreeKruskal.h)
+add_executable(algorithm_c main.c stack/stackByIntArray.c stack/stackByIntArray.h queue/queueByIntArray.c queue/queueByIntArray.h queue/queueByCircular.c queue/queueByCircular.h queue/priorityQueueByIntArray.c queue/priorityQueueByIntArray.h searching/binarySearchByIteration.c searching/binarySearchByIteration.h searching/binarySearchByRecursion.c searching/binarySearchByRecursion.h sorting/selectionSortByIntArray.c sorting/selectionSortByIntArray.h sorting/mergeSortByRecursion.c sorting/mergeSortByRecursion.h sorting/quickSortByRecursion.h sorting/quickSortByRecursion.c minimumSpanningTreeKruskal.h)
