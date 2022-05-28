@@ -1,6 +1,8 @@
 
 //#include "minimumSpanningTreeKruskal.h"
-#include "minimumSpanningTreePrim.h"
+//#include "minimumSpanningTreePrim.h"
+//#include "graphWithAdjacencyMatrix.h"
+#include "graphWithAdjacencyList.h"
 
 int main() {
 
@@ -14,7 +16,11 @@ int main() {
 //    doSelectionSortByIntArray();
 //    doMergeSort();
 //    doQuickSort();
+
 //    doMSTKruskal();
 //    doMSTPrim();
+
+//    doGraphWithAdjacencyMatrix();
+    doGraphWithAdjacencyList();
     return 0;
 }
