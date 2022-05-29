@@ -4,6 +4,7 @@
 
 // Recursive C program for level
 // order traversal of Binary Tree
+// Level order traversal of a tree is breadth first traversal(BSF) for the tree.
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -6,21 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/joewu/CppProject/algorithm-c/graphWithAdjacencyList.h
-stdio.h
--
-stdlib.h
--
-
-/Users/joewu/CppProject/algorithm-c/levelOrderTraversalOfBinaryTree.h
+/Users/joewu/CppProject/algorithm-c/basicTraversalOfBinaryTree.h
 stdio.h
 -
 stdlib.h
 -
 
 /Users/joewu/CppProject/algorithm-c/main.c
-graphWithAdjacencyList.h
-/Users/joewu/CppProject/algorithm-c/graphWithAdjacencyList.h
-levelOrderTraversalOfBinaryTree.h
-/Users/joewu/CppProject/algorithm-c/levelOrderTraversalOfBinaryTree.h
+basicTraversalOfBinaryTree.h
+/Users/joewu/CppProject/algorithm-c/basicTraversalOfBinaryTree.h
 
