@@ -3,6 +3,7 @@
 //#include "minimumSpanningTreePrim.h"
 //#include "graphWithAdjacencyMatrix.h"
 #include "graphWithAdjacencyList.h"
+#include "levelOrderTraversalOfBinaryTree.h"
 
 int main() {
 
@@ -21,6 +22,7 @@ int main() {
 //    doMSTPrim();
 
 //    doGraphWithAdjacencyMatrix();
-    doGraphWithAdjacencyList();
+//    doGraphWithAdjacencyList();
+    doLevelOrderTraversalOfBinaryTree();
     return 0;
 }
