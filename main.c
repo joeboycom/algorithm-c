@@ -6,6 +6,7 @@
 //#include "levelOrderTraversalOfBinaryTree.h"
 #include "basicTraversalOfBinaryTree.h"
 #include "singleSourceShortestPathByDjikstraAlgorithm.h"
+#include "optimalStorageOnTapes.h"
 
 int main() {
 
@@ -28,8 +29,10 @@ int main() {
 // 4.6 MST
 //    doMSTKruskal();
 //    doMSTPrim();
+// 4.7 Optimal Storage On Tapes
+    doOptimalStorageOnTapes();
 // 4.9 Single Source Shortest Path
-    doSingleSourceShortestPathByDjikstraAlgorithm();
+//    doSingleSourceShortestPathByDjikstraAlgorithm();
 
 // Graph
 //    doGraphWithAdjacencyMatrix();

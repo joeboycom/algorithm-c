@@ -17,6 +17,12 @@ basicTraversalOfBinaryTree.h
 /Users/joewu/CppProject/algorithm-c/basicTraversalOfBinaryTree.h
 singleSourceShortestPathByDjikstraAlgorithm.h
 /Users/joewu/CppProject/algorithm-c/singleSourceShortestPathByDjikstraAlgorithm.h
+optimalStorageOnTapes.h
+/Users/joewu/CppProject/algorithm-c/optimalStorageOnTapes.h
+
+/Users/joewu/CppProject/algorithm-c/optimalStorageOnTapes.h
+stdio.h
+-
 
 /Users/joewu/CppProject/algorithm-c/singleSourceShortestPathByDjikstraAlgorithm.h
 stdio.h
