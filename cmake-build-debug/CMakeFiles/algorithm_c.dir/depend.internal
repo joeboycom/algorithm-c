@@ -4,6 +4,7 @@
 CMakeFiles/algorithm_c.dir/main.c.o
  /Users/joewu/CppProject/algorithm-c/basicTraversalOfBinaryTree.h
  /Users/joewu/CppProject/algorithm-c/main.c
+ /Users/joewu/CppProject/algorithm-c/singleSourceShortestPathByDjikstraAlgorithm.h
 CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.o
  /Users/joewu/CppProject/algorithm-c/queue/priorityQueueByIntArray.c
  /Users/joewu/CppProject/algorithm-c/queue/priorityQueueByIntArray.h

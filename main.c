@@ -5,6 +5,7 @@
 //#include "graphWithAdjacencyList.h"
 //#include "levelOrderTraversalOfBinaryTree.h"
 #include "basicTraversalOfBinaryTree.h"
+#include "singleSourceShortestPathByDjikstraAlgorithm.h"
 
 int main() {
 
@@ -23,9 +24,12 @@ int main() {
 //    doMergeSort();
 //    doQuickSort();
 
-// MST
+// Chapter 4 Greedy Method
+// 4.6 MST
 //    doMSTKruskal();
 //    doMSTPrim();
+// 4.9 Single Source Shortest Path
+    doSingleSourceShortestPathByDjikstraAlgorithm();
 
 // Graph
 //    doGraphWithAdjacencyMatrix();
@@ -33,6 +37,7 @@ int main() {
 
 // Traversal
 //    doLevelOrderTraversalOfBinaryTree();
-    doBasicTraversalOfBinaryTree();
+//    doBasicTraversalOfBinaryTree();
+
     return 0;
 }

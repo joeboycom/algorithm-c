@@ -3,6 +3,7 @@
 
 CMakeFiles/algorithm_c.dir/main.c.o: ../basicTraversalOfBinaryTree.h
 CMakeFiles/algorithm_c.dir/main.c.o: ../main.c
+CMakeFiles/algorithm_c.dir/main.c.o: ../singleSourceShortestPathByDjikstraAlgorithm.h
 
 CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.o: ../queue/priorityQueueByIntArray.c
 CMakeFiles/algorithm_c.dir/queue/priorityQueueByIntArray.c.o: ../queue/priorityQueueByIntArray.h
