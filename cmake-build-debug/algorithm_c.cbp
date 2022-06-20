@@ -78,6 +78,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/joewu/CppProject/algorithm-c/allSourceShortestPathByBellmanFord.h">
+			<Option target="algorithm_c"/>
+		</Unit>
 		<Unit filename="/Users/joewu/CppProject/algorithm-c/main.c">
 			<Option target="algorithm_c"/>
 		</Unit>

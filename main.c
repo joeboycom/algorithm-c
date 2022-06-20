@@ -4,9 +4,10 @@
 //#include "graphWithAdjacencyMatrix.h"
 //#include "graphWithAdjacencyList.h"
 //#include "levelOrderTraversalOfBinaryTree.h"
-#include "basicTraversalOfBinaryTree.h"
-#include "singleSourceShortestPathByDjikstraAlgorithm.h"
-#include "optimalStorageOnTapes.h"
+//#include "basicTraversalOfBinaryTree.h"
+//#include "singleSourceShortestPathByDjikstraAlgorithm.h"
+//#include "optimalStorageOnTapes.h"
+#include "allSourceShortestPathByBellmanFord.h"
 
 int main() {
 
@@ -30,7 +31,7 @@ int main() {
 //    doMSTKruskal();
 //    doMSTPrim();
 // 4.7 Optimal Storage On Tapes
-    doOptimalStorageOnTapes();
+//    doOptimalStorageOnTapes();
 // 4.9 Single Source Shortest Path
 //    doSingleSourceShortestPathByDjikstraAlgorithm();
 
@@ -42,5 +43,6 @@ int main() {
 //    doLevelOrderTraversalOfBinaryTree();
 //    doBasicTraversalOfBinaryTree();
 
+    doAllSourceShortestPathByBellmanFord();
     return 0;
 }
